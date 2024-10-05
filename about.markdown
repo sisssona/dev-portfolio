@@ -4,6 +4,6 @@ title: Stuff about me
 permalink: /about/
 ---
 
-Hello there, again
+Hello there, again from GitHub
 
 Here is another paragraph
