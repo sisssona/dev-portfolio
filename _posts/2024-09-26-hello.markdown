@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "My second post!"
+date:   2024-09-26 15:30:18 +0300
+categories: jekyll update
+---
+
+
+How are you doing?!
